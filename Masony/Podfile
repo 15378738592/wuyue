@@ -1,0 +1,6 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'Masony' do
+    pod 'Masonry', '~> 0.6.4'
+end

@@ -8,14 +8,7 @@
 
 #import "ViewController.h"
 
-@interface ViewController (){
-
-    NSArray *array;
-    NSMutableArray *dataarray;
-    UITableView *tabview;
-
-
-}
+@interface ViewController ()
 
 @end
 
